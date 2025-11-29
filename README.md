@@ -109,8 +109,8 @@ Desarrollado como parte de investigación para dicho curso para Nowcasting local
 
 Proyecto realizado por:
 
-Eduardo Llantén     |   eduardo.llanten.p@mail.pucv.cl 
-Juan Pablo Araya    |   juan.araya.v@mail.pucv.cl
-Simón González      |   matias.gonzalez.l01@mail.pucv.cl
-Bruno Tapia         |   bruno.tapia.c@mail.pucv.cl
+Eduardo Llantén     |   eduardo.llanten.p@mail.pucv.cl |||      
+Juan Pablo Araya    |   juan.araya.v@mail.pucv.cl |||      
+Simón González      |   matias.gonzalez.l01@mail.pucv.cl |||      
+Bruno Tapia         |   bruno.tapia.c@mail.pucv.cl |||      
 
